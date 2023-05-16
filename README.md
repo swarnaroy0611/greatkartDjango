@@ -1,2 +1,2 @@
 # GreatKart-django
-A sneaker shopping website
+An online shopping website
