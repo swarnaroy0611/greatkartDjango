@@ -1,6 +1,6 @@
 # E-Commerce Website Project with Django Backend and HTML/CSS/JS Frontend
 
-![E-Commerce Website](https://example.com/path-to-image.png)
+
 
 ## Description
 
@@ -33,7 +33,7 @@ This is an E-Commerce Website project built using Django as the backend framewor
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-project.git
+git clone https://github.com/sudo-sahilroy/GreatKart-django
 ```
 
 2. Navigate to the project directory:
