@@ -132,10 +132,7 @@ git push origin feature/your-feature-name
 ```
 
 5. Open a pull request in the original repository, describing your changes in detail.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+   
 
 ## Acknowledgments
 
@@ -146,7 +143,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, please contact us at:
-- Email: contact@example.com
-- Website: https://example.com
+- Email: sahilroy2001.sr.com
 
 Happy shopping!
